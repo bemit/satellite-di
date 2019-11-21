@@ -1,10 +1,9 @@
 {
   "name": "orbiter/satellite-di",
   "license": "MIT",
-  "description": "DI Registration for Satellite",
+  "description": "DI Utility",
   "require": {
     "php": ">=7.0",
-    "orbiter/satellite": "*",
     "psr/container": "^1.0",
     "php-di/php-di": "^6.0.0"
   },
